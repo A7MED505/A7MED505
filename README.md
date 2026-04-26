@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Ahmed
 
-<!--
-**A7MED505/A7MED505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+🎓 Computer Engineering Student  
+💻 Passionate about programming and building web applications  
+🌍 Currently studying and living in Turkey  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Tools
+- 🌐 HTML, CSS, JavaScript  
+- ⚙️ Node.js & Express  
+- 🗄️ MongoDB  
+- ⚛️ React (Learning)  
+- 🎨 Tailwind CSS  
+- 🔗 REST APIs  
+
+---
+
+## 🌐 Connect With Me
+- 📧 Email: ahmed.mathil82@gmail.com  
+- 🌍 Portfolio: [My Portfolio](https://a7med505.github.io/MyPortfolio/)  
+- 💼 LinkedIn: [Ahmed Al-Mathil](https://www.linkedin.com/in/ahmed-al-mathil-80a085275/)  
+- 💻 GitHub: [A7MED505](https://github.com/A7MED505)  
+
+---
+
+## 🔥 Fun Fact
+🚀 I enjoy building real-world projects and continuously learning new technologies!
