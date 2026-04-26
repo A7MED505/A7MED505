@@ -42,16 +42,14 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=A7MED505&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A7MED505&layout=compact&theme=tokyonight)
+
 
 ---
 
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/A7MED505/A7MED505/blob/output/github-contribution-grid-snake.svg)
+
+
 
 ---
